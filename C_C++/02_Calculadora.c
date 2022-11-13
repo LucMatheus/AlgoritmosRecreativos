@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Funcoes
+//Funções
 float somar(float numero1, float numero2);
 float subtrair(float numero1, float numero2);
 float dividir(float numero1, float numero2);
